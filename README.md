@@ -3,7 +3,7 @@
 2 - BLOCKCHAIN
 3 - JAVASCRIPT
 
--- minha carteira metamask
+-- carteira metamask
 0x6335679655778ad2eAE1C1d447aFBC53125068d5
 
 Adicionando a rede blockchain de teste da BNB (Binance)
@@ -25,7 +25,9 @@ Endereço do contrato:
 0x6285e33d4505aF6465E0AA3c89aeDB5E6984A96b
 
 Listar transações do smart-contract
-https://testnet.bscscan.com/address/0x6285e33d4505aF6465E0AA3c89aeDB5E6984A96b
+https://testnet.bscscan.com/address/
+
+0x6285e33d4505aF6465E0AA3c89aeDB5E6984A96b
 
 
 Na Aba Contract Verificar e Publicar Smart-Contract
@@ -120,7 +122,9 @@ Tweet[]","name":"","type":"tuple[]"}],"stateMutability":"view","type":"function"
 
 
 LENDO INFORMAÇÕES DO SMART-CONTRACT
-https://testnet.bscscan.com/address/0x6285e33d4505aF6465E0AA3c89aeDB5E6984A96b#readContract
+https://testnet.bscscan.com/address/
+
+0x6285e33d4505aF6465E0AA3c89aeDB5E6984A96b#readContract
 
 
 Referencias:
